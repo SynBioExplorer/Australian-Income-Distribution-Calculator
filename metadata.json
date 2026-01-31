@@ -1,0 +1,5 @@
+{
+  "name": "AusIncome Explorer",
+  "description": "Interactive income visualization tool for Australians to compare their earnings against demographic benchmarks using AI-generated statistical estimates.",
+  "requestFramePermissions": []
+}
